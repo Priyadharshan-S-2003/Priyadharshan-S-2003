@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi there 👋
+I am Priyadharshan. 
+I am a front end web developer.
 
-<!--
-**Priyadharshan-S-2003/Priyadharshan-S-2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills - Html5, Css3, Javascript 
 
-Here are some ideas to get you started:
+Services -
+• Portfolio website 
+• Personal website 
+• Affiliate marketing website 
+• Marketing website 
+• Interactive tools website 
+• Api driven website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Pricing - Contact me in instagram for price
+
+* You can contact me to build me Website and i will you build you one.
+* I can design website or you can send your design.
+* After i build them i will locally host them and send you link for to surf and check.
+* When you are satisfied you can send me money via paypal or Payoneer, if you from india send via Upi.
+*  After i receive payment i will send your website code.
+*  I will also teach you how to host them online and teach you how to add content to your website.
