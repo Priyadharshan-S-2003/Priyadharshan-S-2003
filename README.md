@@ -14,7 +14,6 @@ Services -
 
 Pricing - Contact me in instagram for price
 
-* You can contact me to build me Website and i will you build you one.
 * I can design website or you can send your design.
 * After i build them i will locally host them and send you link for to surf and check.
 * When you are satisfied you can send me money via paypal or Payoneer, if you from india send via Upi.
